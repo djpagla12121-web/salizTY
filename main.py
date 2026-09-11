@@ -13,8 +13,8 @@ from telegram import Update, ReplyKeyboardMarkup, KeyboardButton, InlineKeyboard
 from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, ContextTypes, filters, CallbackQueryHandler
 # ==================== CONFIG SECTION ====================
 
-BOT_TOKEN = "8887279308:AAGFr7Up4_E_D6WstVvs3w3pGaNGuntLRQ4"
-API_KEY = "ap_9a831c4524a8fb5945e4171cd78a78c6c976dccf66ef64a5"
+BOT_TOKEN = "8367123815:AAFtCqKasWjJG3hk3ReAGEvQnW0K2hEqbLM"
+API_KEY = "MURAD_094E0E1256ED2ABD852A4C49"
 BASE_URL = "https://2eee7.com/@Access/@Bot/2eee7/@public"           # আপনার প্যানেল ডোমেন (trailing slash ছাড়া)
 USER_DATA_FILE = "users.json"
 PAID_SMS_FILE = "paid_sms.json"
@@ -26,9 +26,9 @@ ACTIVITY_LOGS_FILE = "activity_logs.json"
 DATA_RANGE_FILE = "datarange.json"
 SETTINGS_FILE = "settings.json"
 # ==================== MULTIPLE ADMINS CONFIGURATION ====================
-ADMINS = [8147129409]
+ADMINS = [8982457554]
 
-OTP_GROUP_ID = -1002775235739
+OTP_GROUP_ID = -100356677172
 
 # ==================== PREMIUM EMOJI SETUP ====================
 PREMIUM_EMOJIS = {
@@ -123,8 +123,8 @@ MIN_WITHDRAW = 50
 MAX_WITHDRAW = 10000
 
 # ==================== SUPPORT & DEVELOPER LINKS ====================
-SUPPORT_LINK = "https://t.me/Ariyan_Ahamed_Ari"      
-DEVELOPER_LINK = "https://t.me/Ariyan_Ahamed_Ari"          
+SUPPORT_LINK = "https://t.me/salizTY"      
+DEVELOPER_LINK = "https://t.me/salizTY"          
 
 request_queue = asyncio.Queue()
 MAX_WORKERS = 5000
